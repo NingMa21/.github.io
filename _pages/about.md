@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am on the job market this year, looking for a tenure track academic position."
+title: "Ning Ma"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
