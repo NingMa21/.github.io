@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ning Ma"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ning Ma"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ning Ma"
   avatar           : "ubc_photo.jpg"
-  bio              : "I study and design worker relationships in new labor."
-  location         : "Canada"
+  bio              : "I study and design for worker relationships in gig platforms."
+#  location         : "Canada"
   employer         : "University of British Columbia"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lUvUgfMAAAAJ&hl=en"
