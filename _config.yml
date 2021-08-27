@@ -125,6 +125,7 @@ include:
   - _layouts
   - images
   - _scss
+  - _data
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
