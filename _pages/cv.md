@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+published: true
 ---
 
 #{% include base_path %}
+
+<embed src="https://ningfma.github.io/ningma/cv.pdf" type="application/pdf"/>
 
 Education
 ======
