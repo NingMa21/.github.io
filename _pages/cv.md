@@ -10,8 +10,6 @@ published: true
 
 #{% include base_path %}
 
-<embed src="https://ningfma.github.io/ningma/cv.pdf" type="application/pdf"/>
-
 Education
 ======
 * B.A. in Mathematics, Concordia University Wisconsin, 2013
