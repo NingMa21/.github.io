@@ -9,7 +9,7 @@ published: true
 ---
 
 #{% include base_path %}
-[download CV](https://docs.google.com/document/d/14P6GVUNwKgTFzZOmEp3uqmkKVuHatIgJX6SDdfDlORI/edit?usp=sharing)
+[download CV](https://docs.google.com/document/d/14P6GVUNwKgTFzZOmEp3uqmkKVuHatIgJX6SDdfDlORI/edit?usp=sharing){:target="_blank"}
 
 Education
 ======
