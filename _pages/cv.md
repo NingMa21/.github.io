@@ -11,6 +11,8 @@ published: true
 #{% include base_path %}
 [download CV](https://docs.google.com/document/d/14P6GVUNwKgTFzZOmEp3uqmkKVuHatIgJX6SDdfDlORI/edit?usp=sharing){:target="_blank"}
 
+<embed src="https://github.com/ningfma/ningma/blob/gh-pages/CV.pdf" type="application/pdf"/>
+
 Education
 ======
 * B.A. in Mathematics, Concordia University Wisconsin, 2013
