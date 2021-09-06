@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ning Ma"
+name                     : &name "Ning Ma Ph.D."
 description              : &description "personal description"
 url                      : https://ningfma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/ningma" # the subpath of your site, e.g. "/blog"
