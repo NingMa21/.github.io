@@ -9,6 +9,7 @@ published: true
 ---
 
 #{% include base_path %}
+[CV](<ningma>/CV.pdf)
 
 Education
 ======
