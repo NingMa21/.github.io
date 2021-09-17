@@ -16,6 +16,8 @@ published: true
   {% include archive-single.html %}
 {% endfor %}
 
+[J4] **Ning F Ma***, Veronica Rivera*, Zheng Yao, Dongwook Yoon. “‘Brushing it Off’: How Women Workers Manage and Cope with Bias and Harassment in Gender Agnostic Gig Platforms.” Proceedings of the 40th annual ACM conference on Human factors in computing systems (CHI 2022). [Submitted] *as co-leading author
+
 [J3] Hanrahan, Benjamin V., Anita Chen, JiaHua Ma, **Ning F. Ma**, Anna Squicciarini, and Saiph Savage. "The Expertise Involved in Deciding which HITs are Worth Doing on Amazon Mechanical Turk." Proceedings of the ACM on Human-Computer Interaction 5, no. CSCW1 (2021): 1-23.
 
 [J2] **Ning F Ma** and Benjamin V Hanrahan. 2020. Unpacking Sharing in the Peer-to-Peer Economy: The Impact of Shared Needs and Backgrounds on Ride-Sharing. Proceedings of the 23rd annual ACM conference on Computer Supported Cooperative Work (CSCW 2020). Minneapolis, MN, USA. [PDF]
