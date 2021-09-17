@@ -13,9 +13,5 @@ This course provides an overview of Human-Centered Design (HCD) — a framework 
 
 [Syllabus](https://docs.google.com/document/d/1AdhKEAnMVtVZAwk7zkVV-Wb9E5VtouB5wKi4gmlHSZE/edit?usp=sharing)
 
-**Teaching Assistant
-IST 431 Information Environment (2016 Fall)
-IST 413 Usability Engineering (2018 Spring, 2018 Fall, 2019 Spring)
-SRA 268 Data Visualization (2019 Fall)
 
 
