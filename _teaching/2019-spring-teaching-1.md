@@ -4,7 +4,7 @@ collection: teaching
 type: Undergraduate course
 permalink: /teaching/2019-spring-teaching-1
 venue: 'Pennsylvania State University, College of Information Science and Technology'
-date: {}
+date: {2019-01-15}
 location: 'University Park, USA'
 published: true
 ---
