@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Home/About"
 title_separator          : "-"
 name                     : &name "Ning Ma Ph.D."
 description              : &description "She/Her/Hers"
