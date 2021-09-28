@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Ning Ma"
   avatar           : "profile0.jpg"
   bio              : "I study and design for workers' power relationships in informal workplaces."
 #  location         : "Canada"
@@ -88,6 +88,7 @@ author:
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lUvUgfMAAAAJ&hl=en"
   email            : "ning dot ma at ubc dot ca"
+  linkedin         : "https://www.linkedin.com/in/nzm37/"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
@@ -102,7 +103,6 @@ author:
 #   instagram        :
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-    linkedin         : "https://www.linkedin.com/in/nzm37/"
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
 #   soundcloud       :
